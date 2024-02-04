@@ -1,4 +1,4 @@
-#ABOUT
+# ABOUT ME
 - 👋 Hey there, I'm @aniketsaini5!
 - 👀 Passionate about tackling challenges with a unique twist.
 - 🌱 Currently immersed in the realms of JavaScript and PHP.
