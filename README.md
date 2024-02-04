@@ -1,6 +1,6 @@
 # Hey👋 I'm Aniket Saini
 
-## I like problems
+### I like problems
 
 🧑‍💻I'm learing:
 React,Java
