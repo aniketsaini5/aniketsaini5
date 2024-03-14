@@ -14,7 +14,7 @@ I hate buges but like the errors
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/Aniketsaydhiyan">
+  <a href="https://twitter.com/Aniket_sadhiyan">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.instagram.com/aniketsaini_5?igsh=MTdyd3hyenMzbXR5Mw==">
