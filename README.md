@@ -17,9 +17,7 @@ I hate buges but like the errors
   <a href="https://twitter.com/Aniket_sadhiyan">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.instagram.com/aniketsaini_5?igsh=MTdyd3hyenMzbXR5Mw==">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=red" alt="Badge"/>
-  </a>
+
 </div>
 
 # 💻Tech :
